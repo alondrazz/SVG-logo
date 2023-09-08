@@ -1,1 +1,1 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="300" height="200"><ellipse cx="150" cy="100" r="1500" fill="green" /><text x="50" y="50" font-size="20" text-anchor="middle" fill="white">svg</text></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="300" height="200"><polygon points="150,20 210,120 90,120" fill="green" /><text x="150" y="90" font-size="20" text-anchor="middle" fill="white">svg</text></svg>
